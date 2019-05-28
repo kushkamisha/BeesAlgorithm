@@ -6,4 +6,4 @@
 </p>
 
 ## Wiki
-![Bees algirithm](https://en.wikipedia.org/wiki/Bees_algorithm)
+[Bees algirithm](https://en.wikipedia.org/wiki/Bees_algorithm)
